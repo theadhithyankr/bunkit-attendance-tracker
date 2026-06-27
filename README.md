@@ -14,7 +14,7 @@ Attendance tracker for students planning class attendance and shortage risk.
 
 Bunkit Attendance Tracker is a attendance project in the TheAdhithyanKR/bunkit-attendance-tracker repository. Student attendance tracker for calculating required classes, safe skips, and subject-wise attendance targets.
 
-The README was written from the repository contents, including its manifest files, source tree, and available project metadata. The primary manifest is $(@{Path=package.json; Json=}.Path), and the commands below are taken from its scripts.
+The README was written from the repository contents, including its manifest files, source tree, and available project metadata. The primary manifest is `package.json`, and the commands below are taken from its scripts.
 
 ## Key Features
 
